@@ -44,7 +44,7 @@ const finalTestData = [
     { type: 'multiple', category: '⏰ um vs gegen', question: 'Care e CORECT pentru „pentru 3 zile"?', options: ['um 3 Tage', 'gegen 3 Tage', 'für 3 Tage', 'bis 3 Tage'], correct: 'für 3 Tage', explanation: 'für + durată = pentru (3 Tage, eine Woche, einen Monat).' },
 
     // 3× Recap A1 (pronume Akk + diverse)
-    { type: 'luckentext', category: '📚 Recap A1', question: 'Înlocuiește cu pronume Akk: Ich spiele gegen ____ Bruder. → Ich spiele gegen ____.', translation: 'Joc împotriva LUI (masc.).', accept: ['ihn'], correct: 'ihn', explanation: 'masc. sing → ihn (recap L12). Carolina joacă cu el = gegen ihn.' },
+    { type: 'luckentext', category: '📚 Recap A1', question: 'Înlocuiește substantivul cu pronumele Akk:', sentence: 'Ich spiele Tennis gegen meinen Bruder. → Ich spiele Tennis gegen ____.', translation: 'Joc tenis împotriva lui (masc. sing). Înlocuiește „meinen Bruder" cu pronumele Akk corespunzător.', accept: ['ihn'], correct: 'ihn', explanation: 'masc. sing → ihn (recap L12). „meinen Bruder" (masc. Akk) = ihn.' },
     { type: 'multiple', category: '📚 Recap A1', question: 'Care e Perfekt-ul CORECT pentru „a jucat"? (Lecția 17)', options: ['ich habe gespielen', 'ich habe spielt', 'ich habe gespielt', 'ich bin gespielt'], correct: 'ich habe gespielt', explanation: 'spielen = slab regulat → ge-spiel-t. Auxiliar haben.' },
     { type: 'multiple', category: '📚 Recap A1', question: 'Modal corect (Lecția 6 + 11): „Ich ____ Deutsch sprechen."', options: ['kannen', 'kann', 'könne', 'könnt'], correct: 'kann', explanation: 'Modalele NU primesc -e/-t la ich/er. ich kann = er kann (recap L6).' }
 ];

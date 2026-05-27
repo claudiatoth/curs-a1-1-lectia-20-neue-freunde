@@ -107,7 +107,7 @@ function buildVerbs() {
         '<tr><td><strong>denken AN</strong></td><td>Akk (A2)</td><td>denken an dich</td><td><em style="color:#6b7280;">a se gândi la tine</em></td></tr>' +
         '<tr><td><strong>helfen BEI</strong></td><td>Dativ (A2)</td><td>helfen bei der Arbeit</td><td><em style="color:#6b7280;">a ajuta la treabă</em></td></tr>' +
         '</table>' +
-        '<p style="margin-top:8px;">🎯 La A2 vei avea o lecție dedicată pentru pattern-ul „<strong>Verben mit Präpositionen</strong>" + întrebări „Worauf? Worüber? Worauf?".</p>' +
+        '<p style="margin-top:8px;">🎯 La A2 vei avea o lecție dedicată pentru pattern-ul „<strong>Verben mit Präpositionen</strong>" + întrebări „Worauf? Worüber? Wovon?".</p>' +
         '</div></div></div>';
 
     container.innerHTML = html;
